@@ -31,3 +31,8 @@ git init
 ## Run and Debug your console application
 ![alt text](<截圖 2024-02-21 09.10.01.png>)
 ![alt text](<截圖 2024-02-21 09.11.36.png>)
+
+## Version Controll?
+>.vscode 裡面的 launch.json, tasks.json 需要版本控制嗎？
+
+![alt text](<截圖 2024-02-21 09.19.05.png>)
